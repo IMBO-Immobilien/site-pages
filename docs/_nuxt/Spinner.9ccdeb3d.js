@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as _,A as c,p as n,f as t,a}from"./entry.333d4a1c.js";const d={},r=e=>(n("data-v-794be0c4"),e=e(),t(),e),p={class:"spinner-container"},i=r(()=>a("div",{id:"loading"},null,-1));function l(e,u){return s(),_("div",p,[i,c(e.$slots,"default",{},void 0,!0)])}const v=o(d,[["render",l],["__scopeId","data-v-794be0c4"]]);export{v as _};
